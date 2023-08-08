@@ -1,0 +1,15 @@
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\bin\Debug\net7.0\HashMachine.exe
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\bin\Debug\net7.0\HashMachine.deps.json
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\bin\Debug\net7.0\HashMachine.runtimeconfig.json
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\bin\Debug\net7.0\HashMachine.dll
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\bin\Debug\net7.0\HashMachine.pdb
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.csproj.AssemblyReference.cache
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.AssemblyInfoInputs.cache
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.AssemblyInfo.cs
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.csproj.CoreCompileInputs.cache
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.dll
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\refint\HashMachine.dll
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.pdb
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\HashMachine.genruntimeconfig.cache
+C:\Users\zbclshi\source\repos\HashMachine\HashMachine\obj\Debug\net7.0\ref\HashMachine.dll
